@@ -1,2 +1,2 @@
-# topic-modelling
-Various experiments for topic modelling
+# Topic modelling
+Various experiments for topic modelling and task recommendations.
